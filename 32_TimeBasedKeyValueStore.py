@@ -42,4 +42,5 @@ Learned:
 - Recognized recursion correctly.
 - when defining init variables, still put self.
 - when calling function like in the recursion, use self.
+-My solution is different than NeetCode's but I like mine.
 """
